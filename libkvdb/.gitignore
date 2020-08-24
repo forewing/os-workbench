@@ -1,0 +1,6 @@
+*
+!kvdb.c
+!kvdb.h
+!Makefile
+!test.c
+!.gitignore
